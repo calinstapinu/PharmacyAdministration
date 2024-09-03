@@ -1,0 +1,13 @@
+# ninja log v5
+6	563	1717690288216219540	CMakeFiles/proiectfinaloop.dir/Controller/Controller.cpp.o	2a0a6e0457e1e572
+5	588	1717690288239183571	CMakeFiles/proiectfinaloop.dir/main.cpp.o	2b1c165d25a5b966
+6	622	1717690288266164261	CMakeFiles/proiectfinaloop.dir/UI/UI.cpp.o	7320a7a0e3cddb12
+5	642	1717690288295746641	CMakeFiles/proiectfinaloop.dir/Repository/Repo.cpp.o	c5b1daf7894ccdf7
+348	438	1717690527164499827	proiectfinaloop	37a63140d5941959
+2	347	1717690527074069091	CMakeFiles/proiectfinaloop.dir/Tests/tests.cpp.o	8d8f4d77e1d2f3a6
+3	400	1725367272311528771	CMakeFiles/proiectfinaloop.dir/main.cpp.o	5908c66af59fd8b5
+4	401	1725367272310440432	CMakeFiles/proiectfinaloop.dir/Controller/Controller.cpp.o	f4e7d2dcd64ddf3f
+4	428	1725367272342254223	CMakeFiles/proiectfinaloop.dir/Tests/tests.cpp.o	6f023fe7439220b3
+4	449	1725367272362576829	CMakeFiles/proiectfinaloop.dir/UI/UI.cpp.o	2b8085beaf2c4b12
+3	493	1725367272406250558	CMakeFiles/proiectfinaloop.dir/Repository/Repo.cpp.o	ab7172c72b4bed85
+493	540	1725367272455634524	proiectfinaloop	37a63140d5941959
